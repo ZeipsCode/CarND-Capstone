@@ -1,0 +1,11 @@
+[35m[1mScanning dependencies of target styx_msgs_generate_messages_cpp[0m
+[  0%] Built target styx_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target libwaypoint_follower[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/libwaypoint_follower.dir/lib/libwaypoint_follower.cpp.o[0m
+[ 40%] [32m[1mLinking CXX shared library /media/zpr/5aa7062e-a1a2-4b29-85cb-5756318d57ee/Udacity/Self-driving_car_ND-T3-P3-System_integration-Capstone/ros/devel/.private/waypoint_follower/lib/liblibwaypoint_follower.so[0m
+[ 40%] Built target libwaypoint_follower
+[35m[1mScanning dependencies of target pure_pursuit[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/pure_pursuit.dir/src/pure_pursuit.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /media/zpr/5aa7062e-a1a2-4b29-85cb-5756318d57ee/Udacity/Self-driving_car_ND-T3-P3-System_integration-Capstone/ros/devel/.private/waypoint_follower/lib/waypoint_follower/pure_pursuit[0m
+[100%] Built target pure_pursuit

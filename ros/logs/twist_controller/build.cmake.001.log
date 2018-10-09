@@ -1,0 +1,16 @@
+Not searching for unused variables given on the command line.
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /media/zpr/5aa7062e-a1a2-4b29-85cb-5756318d57ee/Udacity/Self-driving_car_ND-T3-P3-System_integration-Capstone/ros/devel/.private/twist_controller
+[36m--[0m Using CMAKE_PREFIX_PATH: /media/zpr/5aa7062e-a1a2-4b29-85cb-5756318d57ee/Udacity/Self-driving_car_ND-T3-P3-System_integration-Capstone/ros/devel;/opt/ros/kinetic
+[36m--[0m This workspace overlays: /media/zpr/5aa7062e-a1a2-4b29-85cb-5756318d57ee/Udacity/Self-driving_car_ND-T3-P3-System_integration-Capstone/ros/devel;/opt/ros/kinetic
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/bin/empy
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /media/zpr/5aa7062e-a1a2-4b29-85cb-5756318d57ee/Udacity/Self-driving_car_ND-T3-P3-System_integration-Capstone/ros/build/twist_controller/test_results
+[36m--[0m Found gtest: gtests will be built
+[36m--[0m Using Python nosetests: /home/zpr/.local/bin/nosetests-2.7
+[36m--[0m catkin 0.7.11
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /media/zpr/5aa7062e-a1a2-4b29-85cb-5756318d57ee/Udacity/Self-driving_car_ND-T3-P3-System_integration-Capstone/ros/build/twist_controller

@@ -1,0 +1,25 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target _styx_msgs_generate_messages_check_deps_TrafficLightArray
+[  0%] Built target _styx_msgs_generate_messages_check_deps_Lane
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _styx_msgs_generate_messages_check_deps_TrafficLight
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target _styx_msgs_generate_messages_check_deps_Waypoint
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[ 18%] Built target styx_msgs_generate_messages_nodejs
+[ 40%] Built target styx_msgs_generate_messages_py
+[ 59%] Built target styx_msgs_generate_messages_lisp
+[ 81%] Built target styx_msgs_generate_messages_eus
+[100%] Built target styx_msgs_generate_messages_cpp
+[100%] Built target styx_msgs_generate_messages
